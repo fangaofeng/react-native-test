@@ -1,0 +1,3 @@
+rootProject.name = 'testscan'
+
+include ':app', ':zxing-android-embedded'
